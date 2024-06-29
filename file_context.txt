@@ -1,20 +1,100 @@
-You are a twitch chatbot and are answering to prompts from multiple viewers.
-You are part of the community and take action as an independent viewer.
-Be nice to everybody and create a natural, engaging and enjoyable atmosphere.
-Never begin your sentences with "!" or "/".
-Try to make a joke here and there.
-Dont engage into talks about politics or religion. Be respectful towards everybody.
-
-Your name is: 
-The name of the stream is:
-The streamer is called:
-The stream community members are called:
-The stream currency is called:
-The streamer can be found under the following socials and links:
-TikTok:
-Youtube:
-Twitter:
-Facebook:
-Instagram:
-
-Please answer now the prompt of the viewer:
+¿Qué te llevó a comenzar a hacer streams en Twitch?
+¿Cuál fue tu primer juego en stream?
+¿Qué es lo que más te gusta de hacer streams?
+¿Cuál ha sido tu momento más memorable en un stream?
+¿Qué juego disfrutas más jugar en directo?
+¿Cuál es el mayor desafío que has enfrentado como streamer?
+¿Qué es lo que más te gusta de tu comunidad en Twitch?
+¿Qué tipo de contenido planeas hacer en el futuro?
+¿Hay algún juego que te gustaría streamear pero aún no has tenido la oportunidad?
+¿Qué consejos darías a alguien que quiere empezar a hacer streams?
+¿Cuál es tu juego favorito de todos los tiempos?
+¿Qué género de juegos prefieres?
+¿Tienes algún desarrollador de juegos favorito?
+¿Cuál es tu personaje favorito en los videojuegos?
+¿Prefieres jugar en PC o en consola?
+¿Qué otros hobbies tienes además de los videojuegos?
+¿Tienes alguna película o serie favorita?
+¿Qué tipo de música sueles escuchar?
+¿Te gusta leer? ¿Cuál es tu libro favorito?
+¿Tienes algún deporte favorito o practicas alguno?
+¿Cómo te iniciaste en los videojuegos?
+¿Cuál fue tu primer juego?
+¿Has participado en alguna competencia de videojuegos?
+¿Cuál es el logro del que te sientes más orgulloso en un videojuego?
+¿Tienes alguna anécdota divertida jugando videojuegos?
+¿Qué juego te ha hecho enojar más?
+¿Cuál es el juego más difícil que has completado?
+¿Qué juego te gustaría ver convertido en una película?
+¿Prefieres jugar solo o en equipo?
+¿Cuál es tu videojuego de deportes favorito?
+¿Qué es lo que más te gusta de interactuar con tus espectadores?
+¿Cuál ha sido el mejor consejo que has recibido de un espectador?
+¿Tienes alguna historia divertida o memorable con un espectador?
+¿Cómo decides qué juegos streamear?
+¿Qué tipo de retroalimentación valoras más de tu audiencia?
+¿Hay algún juego que hayas jugado por recomendación de un espectador?
+¿Cómo celebras los hitos o logros del canal?
+¿Qué te motiva a seguir streameando?
+¿Cómo gestionas los comentarios negativos o trolls en tu chat?
+¿Qué eventos especiales te gusta organizar para tus seguidores?
+¿Cuál es tu configuración actual de PC o consola?
+¿Qué equipo recomiendas para empezar a hacer streams?
+¿Qué software usas para transmitir?
+¿Cómo personalizas tus alertas y notificaciones?
+¿Tienes algún gadget o accesorio favorito para streamear?
+¿Cómo manejas la iluminación y el sonido en tus streams?
+¿Qué mejoras planeas hacer en tu setup?
+¿Qué periféricos (teclado, ratón, etc.) prefieres?
+¿Cuál es el mayor desafío técnico que has enfrentado durante un stream?
+¿Cómo mantienes tu equipo en buen estado?
+¿Cómo te preparas para un stream?
+¿Tienes alguna rutina antes de comenzar un stream?
+¿Cuánto tiempo dedicas a preparar cada stream?
+¿Qué haces para relajarte después de un stream?
+¿Cómo decides el horario de tus streams?
+¿Tienes algún ritual o superstición antes de jugar?
+¿Qué haces cuando necesitas un descanso durante un stream?
+¿Cómo gestionas tu tiempo entre streamear y otras actividades?
+¿Tienes algún snack o bebida favorita para los streams?
+¿Cómo manejas el cansancio o el agotamiento durante largas sesiones de juego?
+¿Qué opinas sobre la evolución de los videojuegos en los últimos años?
+¿Qué juego crees que ha tenido el mayor impacto en la industria?
+¿Qué tendencias actuales en los videojuegos te emocionan más?
+¿Qué cambios te gustaría ver en la comunidad de gamers?
+¿Cuál es tu opinión sobre los juegos en realidad virtual?
+¿Qué piensas sobre los servicios de suscripción de juegos?
+¿Cómo ves el futuro de los videojuegos en los próximos 10 años?
+¿Qué opinas sobre la inclusión y diversidad en los videojuegos?
+¿Qué juego te gustaría ver remasterizado o con una secuela?
+¿Cómo crees que los videojuegos pueden influir en la educación o la formación?
+Si pudieras ser un personaje de cualquier videojuego, ¿quién serías?
+¿Qué superpoder te gustaría tener en un videojuego?
+¿Qué combinación de dos juegos crees que sería épica?
+¿Cuál es la cosa más extraña que has visto en un videojuego?
+¿Prefieres explorar mundos abiertos o seguir una historia lineal?
+¿Qué juego te gustaría diseñar si tuvieras los recursos?
+¿Cuál es tu villano favorito de los videojuegos?
+¿Qué crossover de videojuegos te gustaría ver?
+¿Qué videojuego crees que tiene la mejor música?
+¿Qué personaje de videojuego te gustaría tener como amigo en la vida real?
+¿Cómo describirías a tu comunidad en Twitch?
+¿Qué te hace sentir orgulloso de tu comunidad?
+¿Qué eventos o actividades haces para fortalecer tu comunidad?
+¿Cómo te sientes al alcanzar nuevos hitos de seguidores?
+¿Qué metas tienes para tu canal este año?
+¿Cómo te mantienes motivado para crecer y mejorar tu canal?
+¿Qué has aprendido de tus espectadores?
+¿Qué consejo le darías a alguien que quiere construir una comunidad en Twitch?
+¿Cómo gestionas el feedback de tu audiencia?
+¿Qué estrategias usas para aumentar la visibilidad de tu canal?
+¿Has colaborado con otros streamers? ¿Cómo fue la experiencia?
+¿Qué streamer te gustaría tener como invitado en tu canal?
+¿Cómo encuentras oportunidades para colaborar con otros?
+¿Qué valoras más en una colaboración?
+¿Hay algún evento o convención a la que te gustaría asistir?
+¿Cómo gestionas las colaboraciones con marcas o patrocinadores?
+¿Qué opinas sobre el networking en la industria de los videojuegos?
+¿Qué streamer te ha influenciado más en tu carrera?
+¿Cómo te mantienes conectado con otros creadores de contenido?
+¿Qué consejo darías para hacer colaboraciones exitosas?
